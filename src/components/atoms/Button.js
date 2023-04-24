@@ -17,7 +17,6 @@ const Title = styled.Text`
   font-size: 16px;
 `;
 
-
 const Button = ({ title, onPress }) => {
   return (
     <Container onPress={onPress}>
