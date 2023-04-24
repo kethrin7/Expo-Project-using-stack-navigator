@@ -12,7 +12,6 @@ const Container = styled.Pressable`
   display: flex;
 `;
 
-
 const Title = styled.Text`
   color: #ffffff;
   font-size: 16px;
